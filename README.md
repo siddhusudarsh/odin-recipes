@@ -9,3 +9,6 @@ This project is part of The Odin Project’s Foundations course. The goal is to 
 - Writing semantic HTML
 - Linking multiple pages together
 - Structuring a simple, clean project
+
+## link for the project 
+ <a href="https://siddhusudarsh.github.io/odin-recipes/" target="blank" rel="noopener noreferrer">project</a>
